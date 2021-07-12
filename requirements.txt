@@ -1,0 +1,5 @@
+numpy
+Pillow
+urllib3
+torch 
+torchvision
