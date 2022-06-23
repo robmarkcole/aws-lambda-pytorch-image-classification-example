@@ -17,3 +17,4 @@ A github action is used to push the latest release to ECR, enter required creden
 
 ## References
 * https://github.com/gokavak/lambda-docker-image-pytorch-xgboost
+* https://github.com/aws-samples/aws-lambda-docker-serverless-inference/tree/main/pytorch-inference-docker-lambda
